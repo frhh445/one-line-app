@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # One Line ✨
 
 > Smarter studying, one session at a time.
@@ -153,3 +154,6 @@ MIT - Free to use, modify, and distribute.
 ---
 
 Built with ✨ by a solo developer.
+=======
+# one-line-app
+>>>>>>> 31ff23af810aef7ef8e9276846cbfa25348ddd6d
